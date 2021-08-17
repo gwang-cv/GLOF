@@ -1,4 +1,4 @@
-## Robust feature matching using guided local outlier factor
+## GLOF: Robust feature matching using guided local outlier factor
 ```
 Robust feature matching using guided local outlier factor
 Gang Wang, Yufei Chen
