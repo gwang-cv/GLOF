@@ -1,6 +1,6 @@
 ## GLOF: Robust feature matching using guided local outlier factor
 
-A MATLAB implementation of the Guided Local Outlier Factor (GLOF) method for removing mismatches in image feature matching. (The python implemnetation [GLOF_python](GLOF_python/readme.md))
+A MATLAB implementation of the Guided Local Outlier Factor (GLOF) method for removing mismatches in image feature matching. (The python implemnetation [GLOF_python](GLOF\_python/readme.md))
 
 	@article{wang2021robust,
 	  title={Robust feature matching using guided local outlier factor},
